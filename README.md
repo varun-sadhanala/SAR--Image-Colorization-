@@ -12,8 +12,8 @@ Side-by-side visualizations: Instantly compare the input SAR and generated optic
 
 Simple authentication: Admin login interface (for demonstration only).
 
-Installation
-Requirements
+*Installation
+Requirements*
 Python 3.7+
 
 PyTorch with compatible CUDA (if using a GPU)
